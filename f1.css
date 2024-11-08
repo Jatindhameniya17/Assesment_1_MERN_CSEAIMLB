@@ -1,0 +1,12 @@
+.container{
+    background-color:cadetblue;
+    height:300px;
+    border:2px solid red;
+    margin: 100px;
+    box-sizing:border-box; 
+    justify-content:space-around;   
+    align-items: center;
+}
+.con1{
+    align-items: center;
+}
